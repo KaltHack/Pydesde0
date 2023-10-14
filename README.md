@@ -8,7 +8,9 @@ Bienvenido al grupo de estudio de programación en python, donde se está realiz
 
 ---
 ### Primera sesión
-* [Recursos:](https://github.com/KaltHack/Pydesde0/blob/main/Recursos/sesion%201/README.md)
+* [Recursos](https://github.com/KaltHack/Pydesde0/blob/main/Recursos/sesion%201/README.md)
+* [Script de Login](https://github.com/KaltHack/Pydesde0/blob/main/Recursos/sesion%201/verifyLogin.py)
+#### Temario:
 1.  [Variables](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 1. [Operadores](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md)
 1. [Strings](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md)
