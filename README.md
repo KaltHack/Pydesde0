@@ -7,6 +7,15 @@
 Bienvenido al grupo de estudio de programación en python, donde se está realizando un proceso de aprendizaje desde los conceptos básicos hasta los más avanzados en el desarollo del lenguaje. 
 
 ---
+### Primera sesión
+* Recursos: 
+1.  [Variables](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
+1. [Operadores](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/03_Day_Operators/03_operators.md)
+1. [Strings](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/04_Day_Strings/04_strings.md)
+
+
+
+---
 
 ## ![moure](https://cdn.discordapp.com/emojis/987095048430714940.gif?size=48&amp;quality=lossless)  Grupo de estudio
 
